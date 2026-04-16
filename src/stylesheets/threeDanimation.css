@@ -68,7 +68,7 @@ body:after {
 	position: absolute;
 	transform: translate3d(0vmin, 0vmin, 0vmin);
 	animation: grow calc(var(--speed) * 1s) ease 0s infinite, colors calc(var(--speed) * 2.25s) linear 0s infinite;
-	transition: --color calc(var(--speed) * 1s) 0s, --tone calc(var(--speed) * 2,25s) 0s;
+	transition: --color calc(var(--speed) * 1s) 0s, --tone calc(var(--speed) * 2.25s) 0s;
 }
 
 .cuboid .side {
